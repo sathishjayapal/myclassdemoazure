@@ -1,0 +1,2 @@
+# myclassdemoazure
+Azure template
