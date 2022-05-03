@@ -3,3 +3,6 @@ az group create -l eastus -n classdemo-rg --tags tags: 'name=classdemo-rg'
 az group deployment create -g classdemo-rg --template-uri https://raw.githubusercontent.com/sathishjayapal/myclassdemoazure/main/windows/sample-windows.json
 
 az group delete --name classdemo-rg
+
+"defaultValue": "Standard_D2s_v3",
+
