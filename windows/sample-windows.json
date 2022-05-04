@@ -78,7 +78,7 @@
     },
     "vmSize": {
       "type": "string",
-      "defaultValue": "Standard_B1s",
+      "defaultValue": "Standard_D2s_v3",
       "metadata": {
         "description": "Size of the virtual machine."
       }
@@ -92,7 +92,7 @@
     },
     "vmName": {
       "type": "string",
-      "defaultValue": "simple-vm1",
+      "defaultValue": "simple-vm",
       "metadata": {
         "description": "Name of the virtual machine."
       }
